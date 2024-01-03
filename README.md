@@ -1,2 +1,2 @@
-# Fort-Cpp_Binding_Test
+# fortran-cpp
 Fortran-C++ Binding Test Repository
